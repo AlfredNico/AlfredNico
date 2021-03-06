@@ -3,7 +3,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... WEB/ MOBILE DEVELOPPER/ DESKTOP APPLICATIONS applications
+- 🔭 I’m currently working on ... WEB/ MOBILE DEVELOPPER/ DESKTOP DEVELOPPER applications
 - 🌱 I’m currently learning ... Node.js/ Angular/ React/ Ionic a Angular/ 
 - 👯 I’m looking to collaborate on ... Angular/ node.js/ ASP .NET/ reactJs/ python
 - 🤔 I’m looking for help with ... angular/ VusJs/ ReactJs / ASP .NET
