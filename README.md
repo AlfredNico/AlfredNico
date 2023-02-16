@@ -8,6 +8,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ... Angular/ NodeJS / ASP .NET/ reactJS/ python / JAVA
 - 🤔 I’m looking for help with ... angular/ VusJs/ ReactJs / ASP .NET
 - 💬 Ask me about ... anything
-- 📫 How to reach me: [whatsApp](+261341557275) - [skype](+261341557275)  - [instagram](Alfred.nico.09) 
+- 📫 How to reach me:  [linkedIn](https://www.linkedin.com/in/alfred-nico-2aa9a3176/) - [Facebook](https://www.facebook.com/alfred.nico.90/)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
