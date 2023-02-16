@@ -1,4 +1,5 @@
-### Hi, I'm Alfred Nico 👋
+### Hi  👋 👋, 
+### I'm Alfred Nico
 
 
 Here are some ideas to get you started:
